@@ -8,7 +8,7 @@ def main():
     """
     print("Hello, World!")
     print("Selamat datang di GitHub!")
-    print("Ini adalah project Matakuliah saya.")
+    print("Ini adalah project Matakuliah Saya.")
 
 if __name__ == "__main__":
     main()
